@@ -128,7 +128,7 @@ view = gr.Interface(
         ["Hugging Face", "https://huggingface.co", "GPT"],
         ["Edward Donner", "https://edwarddonner.com", "Claude"]
     ],
-    flagging_mode="never"
+    allow_flagging="never"
 )
 
 view.launch(inbrowser=True)
