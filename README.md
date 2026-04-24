@@ -25,7 +25,7 @@ landing page and passing it to an LLM (GPT-4 or Claude). Built with Python and G
 ## Getting Started
 
 ### 1. Clone the repo
-git clone https://github.com/yourusername/ai-brochure-generator.git
+git clone https://github.com/ghaderimaryam/ai-brochure-generator.git
 cd ai-brochure-generator
 
 ### 2. Install dependencies
